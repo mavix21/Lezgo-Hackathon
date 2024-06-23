@@ -1,0 +1,47 @@
+.moving-text {
+    div {
+        animation: moving 5s linear 0s infinite forwards;
+    }
+}
+
+.moving-text-right {
+    div {
+        animation: moving-right 5s linear 0s infinite forwards;
+    }
+}
+
+.moving-text-left {
+    div {
+        animation: moving-left 5s linear 0s infinite forwards;
+    }
+}
+
+@keyframes moving {
+    from {
+        transform: translateX(0%);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes moving-right {
+    from {
+        transform: translateX(-100%);
+    }
+
+    to {
+        transform: translateX(0%);
+    }
+}
+
+@keyframes moving-left {
+    from {
+        transform: translateX(0%);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
+}

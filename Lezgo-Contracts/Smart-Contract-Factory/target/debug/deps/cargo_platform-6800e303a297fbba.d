@@ -1,0 +1,9 @@
+C:\Users\marce\source\web3\Lezgo-Contracts\Smart-Contract-Factory\target\debug\deps\libcargo_platform-6800e303a297fbba.rmeta: C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\lib.rs C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\cfg.rs C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\error.rs
+
+C:\Users\marce\source\web3\Lezgo-Contracts\Smart-Contract-Factory\target\debug\deps\libcargo_platform-6800e303a297fbba.rlib: C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\lib.rs C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\cfg.rs C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\error.rs
+
+C:\Users\marce\source\web3\Lezgo-Contracts\Smart-Contract-Factory\target\debug\deps\cargo_platform-6800e303a297fbba.d: C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\lib.rs C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\cfg.rs C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\error.rs
+
+C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\lib.rs:
+C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\cfg.rs:
+C:\Users\marce\scoop\persist\rustup\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cargo-platform-0.1.8\src\error.rs:
